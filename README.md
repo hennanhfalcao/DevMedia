@@ -10,4 +10,5 @@ Projeto 5 - Página de uma padaria utilizando HTML e CSS com foco em seletores d
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto5/PadariaPlus/  
 Projeto 6 - Página de uma imobiliária utilizando HTML e CSS com uso de seletores de classe e listas:  
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto6/ImobiliariaSantos/    
-Projeto 7 - Página de um escritório de advocacia utilizando efeito parallax com CSS e HTML  
+Projeto 7 - Página de um escritório de advocacia utilizando efeito parallax com CSS e HTML:  
+https://hennanhfalcao.github.io/DevMedia/CSS/projeto7/SenhorLei/  
