@@ -1,0 +1,192 @@
+.texto-roxo {
+    color: #3c184e;
+}
+
+.com-transparencia {
+    background-color:#ffffffc4 ;
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.banner {
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url("../img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.container-logo {
+    max-width: 250px;
+}
+.primeiro {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+.logo {
+    width:30px;
+    margin-right: 5px;
+}
+
+.segundo {
+    font-size: 14px;
+    text-align: center;
+    margin: 0 0 0 0;
+}
+
+.com-transparencia h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0
+}
+
+.com-transparencia p {
+    width: 200px;
+    padding: 10px 25px 10px 25px;
+    margin: 0 auto 0 auto;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color:#3c184e
+}
+
+.com-transparencia img {
+    width: 20px;
+
+}
+.com-transparencia a {
+    color: #fff;
+}
+
+.servicos {
+    width: 100%;
+    padding: 120px 80px 120px 80px;
+}
+
+.servicos h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.lista {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color:#3c184e
+}
+
+.lista li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+.lista span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.galeria {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c
+}
+
+.redes-sociais {
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.redes-sociais p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+}
+
+.redes-sociais span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    margin: auto 20px auto 20px
+}
+
+.links img {
+    width: 50px;
+    height: 50px;
+}
+
+.marcas {
+    width: 100%;
+    padding: 120px 80px 120px 80px;
+    text-align: center;
+}
+
+.marcas h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.imagens-marcas {
+    width: 800;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.imagens-marcas img {
+    height: 148px;
+    width: 148px;
+    margin: 0 15px 0 15px;
+}
+
+.onde-estamos {
+    width: 100%;
+    padding: 120px 80px 120px 80px;
+    text-align: center;
+}
+
+.onde-estamos h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.onde-estamos p {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.mapa {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.rodape p {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
