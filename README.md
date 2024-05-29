@@ -12,3 +12,5 @@ Projeto 6 - Página de uma imobiliária utilizando HTML e CSS com uso de seletor
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto6/ImobiliariaSantos/    
 Projeto 7 - Página de um escritório de advocacia utilizando efeito parallax com CSS e HTML:  
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto7/SenhorLei/  
+Projeto 8 - Página de um Pet Shop utilizando CSS e HTML, enfatizando as propriedades caixas, sombras e opacidade:  
+https://hennanhfalcao.github.io/DevMedia/CSS/projeto8/PetBoutique/  
