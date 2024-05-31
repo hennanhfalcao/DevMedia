@@ -1,0 +1,260 @@
+.topo {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background-color: #604829;
+}
+
+
+.logo {
+    width: 100px;
+    position: relative;
+    left: 15%;
+}
+
+.banner1{
+    background-image: url("../assets/parallax-imagem1.png");
+    height: 100vh;
+}
+
+.banner2 {
+    background-image: url("../assets/parallax-imagem2.jpg");
+}
+
+.banner3 {
+    background-image: url("../assets/parallax-imagem3.jpg");
+}
+
+.banner2, .banner3 {
+    height: 50vh;
+}
+
+.banner2 h3, .banner3 h3 {
+    position: relative;
+    top: 45%;
+    right: 0;
+    left: 0;
+    margin:auto;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #604829;
+}
+
+.contatos {
+    background-image: url("../assets/parallax-imagem4.png");
+    height: 100vh;
+}
+
+.container-contatos {
+    position: absolute;
+    width: 500px;
+    padding: 10px;
+    bottom: 8%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-color: #604829;
+}
+.contatos p {
+    font-family: "Oswald", serif;
+    text-align: center;
+    color: #fff;
+    line-height: 36px;
+    text-shadow: 0px 6px 8px #000000;
+}
+
+.contatos h2 {
+    width: 500px;
+    padding: 10px;
+    position: relative;
+    top: 10%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 24px;
+    font-family: "Oswald", serif;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.horarios {
+    background-image: url("../assets/cafeteria.jpg");
+    height: 85vh;
+}
+
+.banner1, 
+.banner2, 
+.banner3, 
+.contatos, 
+.horarios {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.lista {
+    max-width: 768px;
+    position: absolute;
+    margin: 0 auto;
+    bottom: 20%;
+    right: 0;
+    left: 0;
+    font-family: "Oswald", sans-serif;
+    list-style: none;
+
+}
+.lista li {
+    position:relative;
+}
+
+.lista li h3 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.lista li div {
+    width: 70%;
+    height: 1px;
+    background-color: #acacac;
+    position:absolute;
+    right: 0;
+    left: 0;
+    top: 50%;
+    margin: 0 auto;
+}
+
+.lista li p, 
+.texto-marrom {
+    position:absolute;
+    right: 0;
+    top: 0;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+}
+
+.lista li p {
+    color: #acacac;
+}
+
+.rodape {
+    position: relative;
+    padding: 20px 0;
+    line-height: 34px;
+    font-weight: 600;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    background-color: #000000;
+    color: #fff
+}
+
+.rodape a {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 50px;
+    bottom: 80px;
+    display: inline-block;
+    background-image: url("../assets/seta-para-cima.png");
+    background-position: center;
+    background-size: cover;
+    background-color: #c4a47c;
+    border-radius: 4px;
+}
+
+.rodape span {
+    color: #c4a47c;
+    display: inline-block;
+}
+
+.texto-marrom {
+    color:#c4a47c;
+}
+
+.navbar {
+    position: absolute;
+    top: 35%;
+    right: 15%;
+}
+
+.navbar a {
+    margin-right: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    color: #c4a47c;
+    background-color: #604829;
+    text-shadow: 3px 2px #000000;
+    letter-spacing: 2px;
+
+}
+
+.titulo {
+    font-family: 'Fraunces', serif;
+    color: #fff;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-weight: 400;
+    font-size: 100px;
+}
+
+.conteudo {
+    padding: 80px 80px;
+    font-size: 16px;
+    line-height: 34px;
+    text-align: center;
+    color: #666;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.conteudo h2 {
+    margin-bottom: 30px;
+    font-size: 24px;
+    letter-spacing: 2px;
+    font-family: "Oswald", sans-serif;
+    color: #c4a47c;
+}
+.conteudo p {
+    color: #666;
+    max-width: 1024px;
+    padding: 0px 20px;
+    margin: 0 auto;
+    font-family: "Lato", "sans-serif";
+    line-height: 34px;
+    letter-spacing: 1px;
+}
+
+.banner2 h3, .banner3 h3, .contatos h2, .contatos p {
+    background-color: #604829;
+    color: #fff;
+}
+
+.mapa {
+    position: absolute;
+    top: 23%;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+.horarios h2 {
+    position: absolute;
+    top: 20%;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #fff;
+}
