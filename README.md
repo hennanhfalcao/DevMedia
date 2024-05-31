@@ -14,3 +14,5 @@ Projeto 7 - Página de um escritório de advocacia utilizando efeito parallax co
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto7/SenhorLei/  
 Projeto 8 - Página de um Pet Shop utilizando CSS e HTML, enfatizando as propriedades caixas, sombras e opacidade:  
 https://hennanhfalcao.github.io/DevMedia/CSS/projeto8/PetBoutique/  
+Projeto 9 - Página de uma cafeteria utilizando efeito Parallax e manipulando o posicionamento de elementos da página com HTML e CSS:
+https://hennanhfalcao.github.io/DevMedia/CSS/projeto8/ManhatanCoffeeHouse/  
