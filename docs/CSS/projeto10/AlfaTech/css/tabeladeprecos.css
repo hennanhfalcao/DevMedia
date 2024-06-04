@@ -1,0 +1,167 @@
+.limitar-secao {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.azul {
+    background-color: #2f86d6;
+}
+
+
+.topo {
+    background-color: #2f86d6;
+    position: relative;
+    padding: 35px 0px;
+}
+
+.conteiner-logo {
+    position: relative;
+}
+
+
+.conteiner-logo div {
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+
+.conteiner-logo img {
+    width: 80px;
+}
+
+.navbar {
+    position: absolute;
+    top: 65px;
+    right: 0;
+}
+
+.topo .conteiner-logo div p {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+} 
+
+.topo .container-logo div h1 {
+    color: #000;
+    font-size: 32px;
+}
+
+.navbar a {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0px 10px;
+}
+
+.texto-azul {
+    font-size: 32px;
+    color: #2f86d6;
+}
+
+.tabela-de-precos {
+    padding: 100px 0px;
+}
+
+table {
+    margin: auto;
+}
+
+
+.celula-escondida {
+    visibility: hidden;
+}
+
+.celula-cabecalho {
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #f1f3f7;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+}
+
+.celula-cabecalho p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a8a4a4;
+}
+
+.celula-cabecalho h2 {
+    font-size: 36px;
+}
+
+table tbody td {
+text-align: center;
+padding: 20px 40px;
+border-bottom: 1px solid #f1f3f7;
+border-right: 1px solid #f1f3f7;
+}
+
+.primeira-celula {
+    background-color: #f1f3f7;
+    font-weight: 500;
+    text-align: left;
+}
+
+.marcador-azul {
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    margin:auto;
+    background-color: #2f86d6;
+}
+
+
+.rodape {
+    padding-top: 70px;
+}
+
+.conteiner-logo2{
+    width: 320px;
+    position: relative;
+    margin: auto;
+}
+
+.conteiner-logo2 div {
+    position: absolute;
+    left: 95px;
+    top: 0;
+}
+
+.conteiner-logo2 p {
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.conteiner-logo2 img {
+    width: 80px;
+}
+
+.conteiner-logo2 h1 {
+    color: #000;
+    font-size: 32px;
+}
+
+.conteiner-contato p {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    margin: 20px 0 70px;
+    font-weight: 600;
+}
+
+.autor {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #f1f3f7;
+}
+
+.autor span {
+    color: #2f86d6;
+}
