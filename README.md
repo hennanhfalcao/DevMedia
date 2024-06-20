@@ -19,3 +19,6 @@ Projeto 9 - Página de uma cafeteria utilizando efeito Parallax e manipulando o 
 Projeto 10 - Site para um provedor de hospedagem composto por duas páginas utilizando tabelas no HTML e estilizado pelo CSS explorando posicionamento de elementos:  
     Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto10/AlfaTech/home.html  
     Tabela de preços: https://hennanhfalcao.github.io/DevMedia/CSS/projeto10/AlfaTech/tabeladeprecos.html  
+Projeto 11 - Site para uma pousada explorando a ferramenta Flexbox para dispor os itens da página de forma ajustável para múltiplos tamanhos de tela. O site possui duas páginas:  
+    Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto11/PousadaSegredo/index.html  
+    Quartos: https://hennanhfalcao.github.io/DevMedia/CSS/projeto11/PousadaSegredo/quartos.html  
