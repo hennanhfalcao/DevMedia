@@ -67,7 +67,7 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    background-image: url('/assets/imagens_do_projeto/assets/neymar.jpg');
+    background-image: url('./assets/imagens_do_projeto/assets/neymar.jpg');
     background-position: center;
     background-size: cover;
     display: flex;
