@@ -22,3 +22,5 @@ Projeto 10 - Site para um provedor de hospedagem composto por duas páginas util
 Projeto 11 - Site para uma pousada explorando a ferramenta Flexbox para dispor os itens da página de forma ajustável para múltiplos tamanhos de tela. O site possui duas páginas:  
     Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto11/PousadaSegredo/index.html  
     Quartos: https://hennanhfalcao.github.io/DevMedia/CSS/projeto11/PousadaSegredo/quartos.html  
+Projeto 12 - Página do LinkBio do Neymar Jr com inserção de vídeo e utilização de pseudo-classes e pseudo-elementos para tornar a estilização pelo CSS ainda mais sofisticada:  
+    Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto12/LinkBioNeymar/index.html  
