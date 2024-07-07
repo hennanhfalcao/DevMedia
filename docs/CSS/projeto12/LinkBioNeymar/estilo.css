@@ -63,6 +63,7 @@
     width: 20px;
     height: 20px;
 }
+
 .imgPerfil {
     width: 200px;
     height: 200px;
@@ -84,6 +85,7 @@
     z-index: -1;
     border-radius: 100%;
 }
+
 
 .arvore-links {
     max-width: 768px;
