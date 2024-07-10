@@ -1,0 +1,136 @@
+#sobre,
+#especialidades,
+#contato {
+    padding: 40px 20px 0;
+}
+
+.imagem-fundo {
+    position: relative;
+    width: 100%;
+    background-image: url('../assets/recepcao.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+
+} 
+
+.titulo {
+    height: 100%;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.titulo h1 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 38px;
+    margin: 0;
+}
+
+.texto {
+    color: #0000008c;
+    font-size: 18px;
+}
+
+.sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre h3 {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.sobre-container1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.sobre-container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.sobre img {
+    height: 250px;
+}
+
+.especialidades {
+    display: flex;
+    flex-direction: column;
+}
+
+.especialidades-texto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.imagens-especialidades {
+    display: flex;
+    flex-wrap: wrap;
+}
+.imagem-especialidade {
+    border-radius: 3px;
+    box-shadow: 0px 1px 10px rgb(0 0 0 / 50%);
+    margin: 20px;
+    width: calc(100%/3 - 40px);
+}
+
+.imagem-especialidade img {
+    width: 100%;
+}
+
+.imagem-especialidade figcaption {
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.link-horarios {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link-horarios a {
+    background-color: #00cad1;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+}
+
+
+@media (max-width: 1024px) {
+    .imagem-fundo {height: 400px;}
+}
+
+@media (max-width: 768px) {
+    .imagem-fundo {height: 300px;}
+    .sobre img {display: none;}
+    .imagens-especialidades {justify-content: center;}
+    .imagem-especialidade { 
+        width: calc(100%/2 - 40px);
+    }
+}
+
+@media (max-width: 425px) {
+    .imagem-fundo {height: 200px;}
+    .imagem-fundo .titulo {font-size: 28px;}
+    .imagem-especialidade {
+        width: 100%;
+    }
+}
