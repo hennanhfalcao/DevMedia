@@ -24,3 +24,6 @@ Projeto 11 - Site para uma pousada explorando a ferramenta Flexbox para dispor o
     Quartos: https://hennanhfalcao.github.io/DevMedia/CSS/projeto11/PousadaSegredo/quartos.html  
 Projeto 12 - Página do LinkBio do Neymar Jr com inserção de vídeo e utilização de pseudo-classes e pseudo-elementos para tornar a estilização pelo CSS ainda mais sofisticada:  
     Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto12/LinkBioNeymar/index.html  
+Projeto 13 - Site para uma clinica médica com duas páginas, home e especialidades, inteiramente responsivo, com o uso de HTML e CSS, especificamente da ferramenta Media Query que permite o ajuste do conteúdo a diferentes tamanhos de tela:  
+    Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto13/ClinicaMedicaLife/index.html  
+    Especialidaqdes: https://hennanhfalcao.github.io/DevMedia/CSS/projeto13/ClinicaMedicaLife/especialidades.html  
