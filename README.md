@@ -27,3 +27,5 @@ Projeto 12 - Página do LinkBio do Neymar Jr com inserção de vídeo e utiliza�
 Projeto 13 - Site para uma clinica médica com duas páginas, home e especialidades, inteiramente responsivo, com o uso de HTML e CSS, especificamente da ferramenta Media Query que permite o ajuste do conteúdo a diferentes tamanhos de tela:  
     Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto13/ClinicaMedicaLife/index.html  
     Especialidaqdes: https://hennanhfalcao.github.io/DevMedia/CSS/projeto13/ClinicaMedicaLife/especialidades.html  
+Projeto 14 - Página de uma Agência de Viagens utilizando flexbox e media queries para design responsivo. A proposta era estruturar uma página que pudesse se comunicar com o back-end por meio do preenchimento de um formulário:  
+    Home: https://hennanhfalcao.github.io/DevMedia/CSS/projeto14/AgenciaDeViagens/index.html  
